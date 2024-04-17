@@ -1,0 +1,16 @@
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\bin\Debug\net6.0-windows\Blokus.exe
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\bin\Debug\net6.0-windows\Blokus.deps.json
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\bin\Debug\net6.0-windows\Blokus.runtimeconfig.json
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\bin\Debug\net6.0-windows\Blokus.dll
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\bin\Debug\net6.0-windows\Blokus.pdb
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\obj\Debug\net6.0-windows\Blokus.Form1.resources
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\obj\Debug\net6.0-windows\Blokus.csproj.GenerateResource.cache
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\obj\Debug\net6.0-windows\Blokus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\obj\Debug\net6.0-windows\Blokus.AssemblyInfoInputs.cache
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\obj\Debug\net6.0-windows\Blokus.AssemblyInfo.cs
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\obj\Debug\net6.0-windows\Blokus.csproj.CoreCompileInputs.cache
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\obj\Debug\net6.0-windows\Blokus.dll
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\obj\Debug\net6.0-windows\refint\Blokus.dll
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\obj\Debug\net6.0-windows\Blokus.pdb
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\obj\Debug\net6.0-windows\Blokus.genruntimeconfig.cache
+C:\Users\ponkiti\Desktop\WORKSPACE\VisualStudio\Blokus\Blokus\obj\Debug\net6.0-windows\ref\Blokus.dll
